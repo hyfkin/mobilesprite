@@ -14,3 +14,10 @@ using  namespace cocos2d;
 using namespace CocosDenshion;
 using namespace ui
 9宫图片使用
+
+
+Button 
+using namespace cocos2d::ui
+
+Helper
+#include "cocos/ui/CocosGUI.h"
