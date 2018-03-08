@@ -1,11 +1,11 @@
-#include "cocos2d.h"
+ï»¿#include "cocos2d.h"
 
 #include "cocos-ext.h"
 
 #include "editor-support/cocostudio/CCSGUIReader.h"
 
 USING_NS_CC_EXT
-cocostudio µ¼Èëui
+cocostudio å¯¼å…¥ui
 
 
 
@@ -13,4 +13,4 @@ cocostudio µ¼Èëui
 using  namespace cocos2d;
 using namespace CocosDenshion;
 using namespace ui
-9¹¬Í¼Æ¬Ê¹ÓÃ
+9å®«å›¾ç‰‡ä½¿ç”¨
