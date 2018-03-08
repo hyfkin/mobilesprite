@@ -1,0 +1,16 @@
+#include "cocos2d.h"
+
+#include "cocos-ext.h"
+
+#include "editor-support/cocostudio/CCSGUIReader.h"
+
+USING_NS_CC_EXT
+cocostudio 导入ui
+
+
+
+#include "UI\UIScale9Sprite.h"
+using  namespace cocos2d;
+using namespace CocosDenshion;
+using namespace ui
+9宫图片使用
