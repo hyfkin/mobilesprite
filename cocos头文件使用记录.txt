@@ -21,3 +21,9 @@ using namespace cocos2d::ui
 
 Helper
 #include "cocos/ui/CocosGUI.h"
+
+
+using namespace ui;
+#include "cocostudio/CocoStudio.h"
+#include "ui/CocosGUI.h"
+使用cocostudio
